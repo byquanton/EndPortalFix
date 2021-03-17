@@ -1,0 +1,5 @@
+name: Endportalfix
+version: ${project.version}
+main: me.byquanton.endportalfix.Endportalfix
+api-version: 1.16
+authors: [ byquanton ]
