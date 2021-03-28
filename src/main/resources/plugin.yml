@@ -1,5 +1,5 @@
-name: Endportalfix
+name: EndPortalFix
 version: ${project.version}
-main: me.byquanton.endportalfix.Endportalfix
+main: me.byquanton.endportalfix.EndPortalFix
 api-version: 1.16
-authors: [ byquanton ]
+authors: [ byquanton, GamingCraft_hd ]
